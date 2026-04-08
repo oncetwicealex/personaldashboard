@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.89.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
@@ -26,5 +27,17 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4"
-  }
+  },
+  "description": "This project is a personal career dashboard for tracking job applications, interviews, and professional growth in one place. It treats the job search as a structured system rather than a collection of disconnected notes, spreadsheets, and calendar events.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oncetwicealex/personaldashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oncetwicealex/personaldashboard/issues"
+  },
+  "homepage": "https://github.com/oncetwicealex/personaldashboard#readme"
 }
